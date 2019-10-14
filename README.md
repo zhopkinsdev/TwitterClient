@@ -1,6 +1,6 @@
 ## Twitter Client
 
-*Twitter client* is a single page application which initially shows general public tweets. Allows the user to specify a Twitter handle to view the tweets from. When a user requests a specific Twitter handle and the UI shows the latest tweets from that handle, ability to filter / search tweets by text
+*Twitter client* is a single page application which initially shows general public tweets. Allows the user to specify a Twitter handle to view tweets from. When a user requests a specific Twitter handle and the UI shows the latest tweets from that handle, ability to filter / search tweets by text
 
 ### Technology
 
