@@ -7,15 +7,6 @@
 - ReactJS/Redux
 - NodeJs
 
-### Submission
-
-You will submit to the private git repo we have added you to. When done, make sure you provide instructions on how to run your code (preferably as a docker image) in the README.
-
-Note: *Do not* create a Twitter clone and *do not* share any Twitter API secrets in your code.
-
-Best of luck!
-Slync Engineering Team
-
 ### Deployment
 
 In the /back folder find .env_sample file. Copy and rename it to .env
