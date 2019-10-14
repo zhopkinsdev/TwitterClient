@@ -1,0 +1,26 @@
+version: "3.7"
+
+services:
+  #Backend
+  back:
+    build: ./back
+    expose:
+      - "4000"
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./back:/app/back
+      - ./app/back/node_modules
+    command: npm start
+    
+  #Frtontend
+  front:
+    build: ./front
+    expose:
+      - "3000"
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./front:/app/front
+      - ./app/front/node_modules
+    command: npm start
