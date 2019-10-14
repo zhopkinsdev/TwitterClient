@@ -4,7 +4,8 @@
 
 ### Technology
 
-You can pick any frontend and/or backend technologies you are familiar with. You can and should use the Twitter API.
+- ReactJS/Redux
+- NodeJs
 
 ### Submission
 
