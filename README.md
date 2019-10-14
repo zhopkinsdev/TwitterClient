@@ -19,7 +19,7 @@ You can use Docker to run the project
 docker-compose build
 docker-compose up
 ```
-To run test in Docker:
+To run tests in Docker:
 1. Run `docker-compose up -d` (Start docker in background)
 2. Run `docker-compose exec front bash` (To enter bash)
 3. Run tests with `npm test`
