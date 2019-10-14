@@ -6,6 +6,7 @@
 
 - ReactJS/Redux
 - NodeJs
+- Express
 
 ### Deployment
 
