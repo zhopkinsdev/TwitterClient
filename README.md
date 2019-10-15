@@ -3,7 +3,7 @@
 A simple *Twitter client* that initially shows general public tweets. It allows the user to specify a Twitter handle to view tweets from. After requesting tweets from a specific user, you can filter/search tweets by text.
 
 ### Note
-Twitter client uses Heroku's free dyno. Please, wait several seconds until it becomes active.
+A Twitter client uses Heroku's free dyno. Please, wait several seconds until it becomes active.
 
 ### Technology
 
